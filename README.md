@@ -15,7 +15,7 @@
 
 ## About
 
-I build things from scratch rather than reaching for a framework to do the hard part for me — servers, file tools, that kind of thing. Currently also working on small web projects with a friend for solopreneurs and small businesses.
+I build things for people; my projects are usually intended to have added value for GitHub, etc. 
 
 - 🔧 **Main language:** C#, used for most new projects
 - 🧠 **Background:** Started in web dev (HTML, CSS, JS, React, TypeScript, Tailwind, Node.js)
